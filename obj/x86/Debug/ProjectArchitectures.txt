@@ -1,0 +1,1 @@
+C:\Users\tadam\source\repos\UWP\TestHello\TextHello.csproj;x86
